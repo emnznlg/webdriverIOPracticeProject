@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']\"}\n  (Session info: chrome=113.0.5672.129)",
-  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00B48893+48451]\n\t(No symbol) [0x00ADB8A1]\n\t(No symbol) [0x009E5058]\n\t(No symbol) [0x00A10467]\n\t(No symbol) [0x00A1069B]\n\t(No symbol) [0x00A3DD92]\n\t(No symbol) [0x00A2A304]\n\t(No symbol) [0x00A3C482]\n\t(No symbol) [0x00A2A0B6]\n\t(No symbol) [0x00A07E08]\n\t(No symbol) [0x00A08F2D]\n\tGetHandleVerifier [0x00DA8E3A+2540266]\n\tGetHandleVerifier [0x00DE8959+2801161]\n\tGetHandleVerifier [0x00DE295C+2776588]\n\tGetHandleVerifier [0x00BD2280+612144]\n\t(No symbol) [0x00AE4F6C]\n\t(No symbol) [0x00AE11D8]\n\t(No symbol) [0x00AE12BB]\n\t(No symbol) [0x00AD4857]\n\tBaseThreadInitThunk [0x77A700C9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77D37B4E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77D37B1E+238]\n"
-}

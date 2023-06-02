@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']"
-}

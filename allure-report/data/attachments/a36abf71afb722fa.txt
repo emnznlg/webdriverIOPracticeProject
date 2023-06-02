@@ -1,4 +1,0 @@
-{
-  "using": "css selector",
-  "value": "div[class='panel header'] button[type='button']"
-}

@@ -1,4 +1,0 @@
-{
-  "using": "css selector",
-  "value": "#s_method_flatrate_flatrate"
-}

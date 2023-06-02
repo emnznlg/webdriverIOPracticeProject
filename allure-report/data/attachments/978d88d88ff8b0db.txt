@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[@class='panel header']//a[contains(text(),'Sign In')]"
-}

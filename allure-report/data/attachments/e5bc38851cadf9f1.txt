@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//span[@data-bind='text: option.value'])[2]"
-}
