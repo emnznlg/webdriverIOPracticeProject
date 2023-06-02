@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "a[data-bind='attr: {href: product_url}, html: product_name']"
+}

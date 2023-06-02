@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".col.item .product-item-name"
+}

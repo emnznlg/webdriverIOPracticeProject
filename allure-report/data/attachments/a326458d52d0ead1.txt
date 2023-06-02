@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//fieldset[@class='fieldset login']//span[contains(text(),'Sign In')]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@aria-hidden='false']//a[normalize-space()='Sign Out']"
+}

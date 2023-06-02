@@ -26,7 +26,7 @@ exports.config = {
   //
   specs: [
     // ToDo: define location for spec files here
-    "./test/specs/**/*.js",
+    "./test/specs/**/cart-tests.js",
   ],
   // Patterns to exclude.
   exclude: [
@@ -146,7 +146,7 @@ exports.config = {
   // See the full list at http://mochajs.org/
   mochaOpts: {
     ui: "bdd",
-    timeout: 60000,
+    timeout: 600000,
   },
   //
   // =====

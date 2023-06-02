@@ -1,0 +1,3 @@
+{
+  "text": "deneme-mail@example.com"
+}
